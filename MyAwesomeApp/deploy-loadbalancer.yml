@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: ak-angular-app
-        image: ananthkannan/myspringbootapp:latest
+        image: ssaha7714/myspringbootapp:latest
         ports:
         - containerPort: 8085
         
